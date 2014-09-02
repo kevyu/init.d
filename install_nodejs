@@ -1,4 +1,4 @@
-VERSION="0.10.24"
+VERSION="0.10.31"
 echo "------------------------------------------------------------------------"
 echo "Now install Node.js $VERSION..."
 curl -O http://nodejs.org/dist/v$VERSION/node-v$VERSION.tar.gz
